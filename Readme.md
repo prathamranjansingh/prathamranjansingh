@@ -10,7 +10,7 @@ const aboutMe = {
   },
   experience: {
     curr: "looking for a new project :)",
-    prev: "Software Engineering Intern at Capital One",
+    prev: "FTE at CRED",
   },
   workingOn: "N/A",
   learning: "How to build a large-scale, high-throughput platforms",
