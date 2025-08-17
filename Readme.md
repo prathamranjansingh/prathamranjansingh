@@ -10,7 +10,7 @@ const aboutMe = {
   },
   experience: {
     curr: "looking for a new project :)",
-    prev: "FTE at CRED",
+    prev: "FTC at CRED",
   },
   workingOn: "N/A",
   learning: "How to build a large-scale, high-throughput platforms",
